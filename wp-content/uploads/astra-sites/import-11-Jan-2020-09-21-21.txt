@@ -1,0 +1,95 @@
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: Apache/2.4.41 (Win64) PHP/7.3.12
+MySQL version 		: 5.5.5
+XML Reader 		: Yes
+PHP Version 		: 7.3.12
+PHP Max Input Vars 	: 2500
+PHP Max Post Size 	: 8M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 120
+Max Upload Size 	: 2 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: 0
+
+-----
+
+Importing Started! - 10:17:14 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+Inserted WP Form 8
+Imported Customizer Settings {"astra-settings":{"astra-addon-auto-version":"2.2.2","theme-auto-version":"2.2.1","above-header-submenu-border":{"top":"1","bottom":"1","left":"1","right":"1"},"above-header-submenu-item-border":1,"below-header-submenu-border":{"top":"1","bottom":"1","left":"1","right":"1"},"below-header-submenu-item-border":1,"above-nav-menu-pointer-effect":"none","below-nav-menu-pointer-effect":"none","above-header-submenu-border-color":"#eaeaea","below-header-submenu-container-animation":"","above-header-submenu-container-animation":"","primary-submenu-border":{"top":"1","bottom":"1","left":"1","right":"1"},"primary-submenu-item-border":1,"submenu-below-header":false,"primary-submenu-b-color":"#eaeaea","header-main-submenu-container-animation":"","primary-submenu-item-b-color":"#eaeaea","above-header-submenu-item-b-color":"#eaeaea","different-retina-logo":true,"ast-header-retina-logo":"https:\/\/websitedemos.net\/alex24\/wp-content\/uploads\/sites\/278\/2018\/10\/logo-retina-free-img.png","display-site-tagline":true,"logo-title-inline":true,"header-layouts":"header-main-layout-1","header-main-rt-section":"none","header-main-rt-section-html":"<button>GET A QUOTE<\/button>","header-main-sep":1,"mobile-header-toggle-target":"icon","mobile-header-toggle-btn-style":"fill","mobile-header-toggle-btn-border-radius":0,"mobile-header-toggle-btn-style-color":"#ea3a1c","footer-sml-layout":"footer-sml-layout-1","footer-sml-section-1":"custom","footer-sml-section-1-credit":"Copyright \u00a9 [current_year] [site_title] | Powered by [site_title]","footer-sml-section-2":"widget","footer-sml-divider":1,"footer-sml-divider-color":"rgba(0,0,0,0.1)","theme-color":"#2354a2","link-color":"#2354a2","text-color":"rgba(0,0,0,0.5)","link-h-color":"#000000","footer-color":"rgba(0,0,0,0.5)","footer-link-color":"#2354a2","footer-link-h-color":"#000000","footer-bg-obj":{"background-color":"#ffffff","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"body-font-family":"'Montserrat', sans-serif","body-font-weight":"600","font-size-body":{"desktop":"14","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"headings-font-family":"'Montserrat', sans-serif","headings-font-weight":"700","font-size-site-title":{"desktop":"30","tablet":"24","mobile":"24","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-site-tagline":{"desktop":"12","tablet":"12","mobile":"12","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"ast-header-responsive-logo-width":{"desktop":"","tablet":"","mobile":"50"},"headings-text-transform":"uppercase","font-size-h1":{"desktop":"50","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h2":{"desktop":"30","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h3":{"desktop":"25","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h4":{"desktop":"20","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h5":{"desktop":"16","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h6":{"desktop":"12","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"header-main-sep-color":"rgba(0,0,0,0.1)","button-color":"#ffffff","button-h-color":"#ffffff","button-bg-color":"#ea3a1c","button-bg-h-color":"#ea2300","button-radius":0,"button-v-padding":8,"button-h-padding":20,"body-font-variant":"400","headings-font-variant":"700","transparent-header-enable":0,"font-size-page-title":{"desktop":"30","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"wc-header-cart-header-colors":false,"site-content-layout":"boxed-container","shop-quick-view-stick-cart":true,"_astra_pb_compatibility_completed":true,"is_theme_queue_running":false,"submenu-open-below-header":false,"is_addon_queue_running":true,"heading-base-color":"#2354a2","theme-btn-line-height":"1","line-height-h3":"1.5","text-transform-button":"uppercase","line-height-h2":"1.4","theme-button-padding":{"desktop":{"top":"14","right":"32","bottom":"14","left":"32"},"tablet":{"top":"","right":"","bottom":"","left":""},"mobile":{"top":"","right":"","bottom":"","left":""},"desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-button":{"desktop":"15","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"}},"custom-css":""}
+Importing from XML https://websitedemos.net/wp-content/uploads/astra-sites/278/wxr.xml
+Inserted - Term 2 - {"term_id":2,"name":"Maecenas","slug":"maecenas","term_group":0,"term_taxonomy_id":2,"taxonomy":"category","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 3 - {"term_id":3,"name":"page","slug":"page","term_group":0,"term_taxonomy_id":3,"taxonomy":"elementor_library_type","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 4 - {"term_id":4,"name":"Menu","slug":"menu","term_group":0,"term_taxonomy_id":4,"taxonomy":"nav_menu","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Post 22 - attachment - favicon-free-img
+Inserted - Post 23 - attachment - logo-regular-free-img
+Inserted - Post 24 - attachment - logo-retina-free-img
+Inserted - Post 26 - attachment - cropped-favicon-free-img.png
+Inserted - Post 48 - attachment - bg-02-free-img
+Inserted - Post 50 - attachment - about-01-free-img
+Inserted - Post 51 - attachment - about-02-free-img
+Inserted - Post 62 - attachment - bg-03-free-img
+Inserted - Post 63 - attachment - bg-04-free-img
+Inserted - Post 64 - attachment - bg-05-free-img
+Inserted - Post 65 - attachment - bg-06-free-img
+Inserted - Post 66 - attachment - bg-07-free-img
+Inserted - Post 73 - attachment - about-04-free-img
+Inserted - Post 74 - attachment - about-03-free-img
+Inserted - Post 76 - attachment - bg-08-free-img
+Inserted - Post 77 - attachment - bg-01-free-img
+Inserted - Post 79 - attachment - logo-04-free-img
+Inserted - Post 80 - attachment - logo-03-free-img
+Inserted - Post 81 - attachment - logo-01-free-img
+Inserted - Post 82 - attachment - logo-02-free-img
+Inserted - Post 16 - nav_menu_item - 
+Inserted - Post 17 - nav_menu_item - Testimonials
+Inserted - Post 18 - nav_menu_item - Contact
+Inserted - Post 19 - nav_menu_item - Services
+Inserted - Post 20 - nav_menu_item - About
+Inserted - Post 21 - nav_menu_item - Home
+Inserted - Post 84 - attachment - services-01-free-img
+Inserted - Post 85 - attachment - services-02-free-img
+Inserted - Post 86 - attachment - services-03-free-img
+Inserted - Post 87 - attachment - services-04-free-img
+Inserted - Post 88 - attachment - services-05-free-img
+Inserted - Post 89 - attachment - services-06-free-img
+Inserted - Post 94 - attachment - bg-09-free-img
+Inserted - Post 100 - attachment - demo-screenshot-free-img
+Inserted - Post 1029 - attachment - blog01
+Inserted - Post 1032 - attachment - blog02
+Inserted - Post 1034 - attachment - blog03
+Inserted - Post 1037 - attachment - blog04
+Inserted - Post 1039 - attachment - blog05
+Inserted - Post 1041 - attachment - blog06
+Inserted - Post 1042 - page - Home
+Inserted - Post 1043 - page - About
+Inserted - Post 1044 - page - Services
+Inserted - Post 12 - page - Contact
+Inserted - Post 13 - page - Testimonials
+Inserted - Post 14 - page - FAQ
+Inserted - Post 1015 - wp_block - quotes
+Imported - Site Options {"woocommerce_product_attributes":[],"woocommerce_product_cat_list":[],"woocommerce_product_cat":[],"custom_logo":"https:\/\/websitedemos.net\/plumber-02\/wp-content\/uploads\/sites\/278\/2018\/10\/logo-regular-free-img.png","nav_menu_locations":{"primary":"menu"},"show_on_front":"page","page_on_front":"Home","page_for_posts":"","_fl_builder_enabled_icons":null,"_fl_builder_enabled_modules":null,"_fl_builder_post_types":null,"_fl_builder_color_presets":null,"_fl_builder_services":null,"_fl_builder_settings":null,"_fl_builder_user_access":null,"_fl_builder_enabled_templates":null,"elementor_container_width":"1200","elementor_cpt_support":["post","page"],"elementor_css_print_method":"external","elementor_default_generic_fonts":"Sans-serif","elementor_disable_color_schemes":"yes","elementor_disable_typography_schemes":"yes","elementor_editor_break_lines":"","elementor_exclude_user_roles":null,"elementor_global_image_lightbox":"yes","elementor_page_title_selector":"","elementor_scheme_color":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70"},"elementor_scheme_color-picker]":{"1":"#2354a2","2":"#000000","3":"#000000","4":"#000000","5":"#ea3a1c","6":"#000000","7":"#000000","8":"#ffffff"},"elementor_scheme_typography":{"1":{"font_family":"Roboto","font_weight":"600"},"2":{"font_family":"Roboto Slab","font_weight":"400"},"3":{"font_family":"Roboto","font_weight":"400"},"4":{"font_family":"Roboto","font_weight":"500"}},"elementor_space_between_widgets":"10","elementor_stretched_section_container":"","elementor_load_fa4_shim":"yes","woocommerce_shop_page_title":"","woocommerce_cart_page_title":"","woocommerce_checkout_page_title":"","woocommerce_myaccount_page_title":"","woocommerce_edit_address_page_title":"","woocommerce_view_order_page_title":"","woocommerce_change_password_page_title":"","woocommerce_logout_page_title":"","woocommerce_enable_guest_checkout":null,"woocommerce_enable_checkout_login_reminder":null,"woocommerce_enable_signup_and_login_from_checkout":null,"woocommerce_enable_myaccount_registration":null,"woocommerce_registration_generate_username":null,"wpforms_settings":{"disable-css":"2","global-assets":false,"gdpr":false},"learndash_settings_theme_ld30":null,"learndash_settings_courses_themes":null}
+Imported - Widgets {"sidebar-1":{"search-2":{"title":""},"recent-posts-2":{"title":"","number":5},"recent-comments-2":{"title":"","number":5},"archives-2":{"title":"","count":0,"dropdown":0},"categories-2":{"title":"","count":0,"hierarchical":0,"dropdown":0},"meta-2":{"title":""}}}
+Complete 
+Batch Process Started!
+Astra Sites - Importing Images for Blog name 'Smart Clean' (1)
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing MISC ----
+Post ID: 16
+Post ID: 17
+Post ID: 18
+Post ID: 19
+Post ID: 20
+Post ID: 21
+Batch Process Complete!
