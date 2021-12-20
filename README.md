@@ -10,3 +10,5 @@ The Black Solider Flies to lay eggs in small holes over the grub bin. The BSF ho
 
 Also, this software provide Graphical user interface that make you use this software with ease, 
 this help user to do their work in less time, and with great efficiency.
+
+<b>Environments:- WordPress,PHP,CSS,HTML,Wamp Server,MySQL</b>
