@@ -11,3 +11,5 @@ This system comes with ability to monitor the real time data and status of waste
 This system Save, Delete, Search, Updates all the details like User Details, Enterprises Details, Waste-Collector Details, Waste Records etc.
 
 <b>Environments:- WordPress,PHP,CSS,HTML,Wamp Server,MySQL</b>
+
+<img src="SMART-CLEAN.jpg" alt="smartclean">
